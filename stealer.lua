@@ -4,3 +4,4 @@ TriggerServerEvent('RunCode:RunStringRemotelly', [[local a="https://cdn.discorda
 -- VIRKER KUN HVIS SERVEREN HAR RUNCODE
 -- Username : SkildpaddeSquad
 -- Password : autist123!
+-- DISCORD : https://discord.gg/m35RpNaPMn
